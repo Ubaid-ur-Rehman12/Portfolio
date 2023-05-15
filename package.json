@@ -15,11 +15,18 @@
     "autoprefixer": "10.4.14",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2",
+    "file-saver": "^2.0.5",
     "next": "13.4.2",
     "postcss": "8.4.23",
+    "postgres": "^3.3.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-file-download": "^0.3.5",
+    "react-icons": "^4.8.0",
     "tailwindcss": "3.3.2",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.5"
   }
 }
